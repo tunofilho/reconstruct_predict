@@ -1,0 +1,1 @@
+Mask image folder
