@@ -12,11 +12,3 @@ Output:
     .predict/xxxxx_0yyy.png - Prediction tiles (Height = Width) ** without threshold rate on predictions.
 
 Obs: It is possible create overlap among tiles changing the stride variable.
-
-Requirements:
-tensorflow==2.3.1
-Pillow>=8.2
-numpy>=1.18
-keras-unet==0.1.2
-matplotlib>=3.4
-
