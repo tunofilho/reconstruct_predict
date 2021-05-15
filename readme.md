@@ -14,8 +14,13 @@ Output:
 Obs: It is possible create overlap among tiles changing the stride variable.
 
 Requirements:
+
 tensorflow==2.3.1
+
 pillow>=8.2
+
 keras-unet==0.1.2
+
 matplotlib>=3.4
+
 numpy>=1.18
